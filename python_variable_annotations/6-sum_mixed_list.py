@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+"""Module that provides a function to sum a mixed list of integers and floats."""
+
+
+def sum_mixed_list(mxd_lst: list[int | float]) -> float:
+    """Return the sum of a list containing integers and floats."""
+    return float(sum(mxd_lst))
