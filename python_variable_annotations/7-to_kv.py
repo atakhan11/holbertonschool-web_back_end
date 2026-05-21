@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+'''Module that defines a function to return a tuple'''
 from typing import Tuple, Union
 
 
